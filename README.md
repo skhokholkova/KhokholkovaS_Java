@@ -2,6 +2,6 @@
 
 Хохолькова С. (група 124-23-1)
 
-- Лабораторна 0. Hello world: [lab0](https://github.com/skhokholkova/KhokholkovaS_Java/tree/main/lab0)
-- Лабораторна 1. CVS. Git: цей репозиторій, гілка [LR_1](https://github.com/skhokholkova/KhokholkovaS_Java/tree/LR_1)
+- Лабораторна 1. Hello world, CVS. Git: [lab1](https://github.com/skhokholkova/KhokholkovaS_Java/tree/main/lab1), гілка [LR_1](https://github.com/skhokholkova/KhokholkovaS_Java/tree/LR_1)
 - Лабораторна 2. Основи (матриця): [lab2](https://github.com/skhokholkova/KhokholkovaS_Java/tree/main/lab2), гілка [LR_2](https://github.com/skhokholkova/KhokholkovaS_Java/tree/LR_2)
+- Лабораторна 3. ООП (університет, MVC): [lab3](https://github.com/skhokholkova/KhokholkovaS_Java/tree/main/lab3), гілка [LR_3](https://github.com/skhokholkova/KhokholkovaS_Java/tree/LR_3)
