@@ -6,3 +6,4 @@
 - Лабораторна 2. Основи (матриця): [lab2](https://github.com/skhokholkova/KhokholkovaS_Java/tree/main/lab2), гілка [LR_2](https://github.com/skhokholkova/KhokholkovaS_Java/tree/LR_2)
 - Лабораторна 3. ООП (університет, MVC): [lab3](https://github.com/skhokholkova/KhokholkovaS_Java/tree/main/lab3), гілка [LR_3](https://github.com/skhokholkova/KhokholkovaS_Java/tree/LR_3)
 - Лабораторна 4. JUnit, JSON: [lab4](https://github.com/skhokholkova/KhokholkovaS_Java/tree/main/lab4), гілка [LR_4](https://github.com/skhokholkova/KhokholkovaS_Java/tree/LR_4)
+- Лабораторна 5. JDBC: [lab5](https://github.com/skhokholkova/KhokholkovaS_Java/tree/main/lab5), гілка [LR_5](https://github.com/skhokholkova/KhokholkovaS_Java/tree/LR_5)
